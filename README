@@ -1,0 +1,9 @@
+-----MODULE 1 - GETTING THE COUNT OF CHARACTERS LEFT OUT ----
+
+Here, we calculate how many characters are left out after cancelling the similar characters in given two names
+
+
+
+---MODULE 2 -  FROM THE COUNT OBTAININED, WE TRY TO FIND THE RELATIONSHIP
+
+Here,we perform certain modulo division operations to get the required relationship status by eliminating 5 status.
